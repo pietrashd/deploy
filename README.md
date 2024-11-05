@@ -1,6 +1,5 @@
 # Deploy
 
-# Passos para o Deploy
 ## Deploy do Back-end
 
 ## 1. Criar o Repositório
